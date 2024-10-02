@@ -1,0 +1,9 @@
+1. buka folder library kemudian copy semua folder dan pastekan pada C:\Users\namaPC\Documents\Arduino
+2. pastikan sudah pc sudah terinstal ch34
+3. pastikan nodemcu sudah diflash
+4. pastikan sudah ditambahakan board manager esp8266
+5. Buka file smart_plant 
+6. Rubah token nama hotspot dan pasword hotspot
+7. upload & done...........
+
+s
